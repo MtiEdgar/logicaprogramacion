@@ -1,0 +1,17 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+
+  .logicaprog {
+    max-width: 800px; /* Ancho máximo del contenedor */
+    margin: 20px auto; /* Centra horizontalmente y añade espacio arriba y abajo */
+    padding: 20px;
+    background: white; /* Fondo blanco para las secciones */
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Sombra sutil */
+    text-align: center; /* Alineación de texto a la izquierda */
+}
+  
